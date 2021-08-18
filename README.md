@@ -3,9 +3,6 @@
 Name : Mudit sand
 Roll No. : 203100068
 
-The parameters of saved model is on my google drive and link is the following:-
-
-https://drive.google.com/drive/folders/1da7ezpi58v6Sgy-gdNRrBmISs6SVGzxD?usp=sharing
 
 This project is the part of a udemy course:
 
